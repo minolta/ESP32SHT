@@ -15,6 +15,8 @@ private:
 public:
    ESP32SHT35(void);
    boolean read(void);
+   float getT();
+   float getH();
 
 };
 #endif

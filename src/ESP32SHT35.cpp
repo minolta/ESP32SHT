@@ -16,3 +16,13 @@ boolean ESP32SHT35::read()
 
     return false;
 }
+
+float ESP32SHT35::getH()
+{
+    return h;
+}
+
+float ESP32SHT35::getT()
+{
+    return t;
+}

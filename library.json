@@ -1,6 +1,6 @@
 {
-    "name": "Sht ",
-    "version": "1.0.0",
+    "name": "Sht",
+    "version": "1.0.1",
     "description": "Function read SHT 35",
     "keywords": "SHT35D,esp8266,esp32",
     "repository": {
